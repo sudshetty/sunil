@@ -1,3 +1,4 @@
 //this is 3rd file
 echo "exercise for github"
 echo "updated to test diff between local and github"
+echo "to understand importancce of fetch"
